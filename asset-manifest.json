@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Countries-APIr/static/css/main.7073e40e.css",
+    "main.js": "/Countries-APIr/static/js/main.e01e40c9.js",
+    "index.html": "/Countries-APIr/index.html",
+    "static/media/moon-solid.svg": "/Countries-APIr/static/media/moon-solid.a3c3b8c292664a3e82a2.svg",
+    "static/media/magnifying-glass-solid.svg": "/Countries-APIr/static/media/magnifying-glass-solid.cf315284d6e0edc1c768.svg",
+    "static/media/chevron-down-solid.svg": "/Countries-APIr/static/media/chevron-down-solid.d1488c471e86d7036a41.svg",
+    "main.7073e40e.css.map": "/Countries-APIr/static/css/main.7073e40e.css.map",
+    "main.e01e40c9.js.map": "/Countries-APIr/static/js/main.e01e40c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7073e40e.css",
+    "static/js/main.e01e40c9.js"
+  ]
+}
